@@ -38,7 +38,9 @@
 - AWS EC2, RDS, S3
 
 ## 🔗 ERD 
+
 ![ERD](/image/ERD-DDAJAIT.png)
+
 
 ## ⚙️ CI/CD 파이프라인
 GitHub Actions, nginx , AWS EC2를 이용하여 Spring 애플리케이션 무중단 배포 환경을 구축했습니다.
@@ -50,3 +52,4 @@ GitHub Actions, nginx , AWS EC2를 이용하여 Spring 애플리케이션 무중
 http://52.78.44.47/swagger-ui/index.html#/
 
 ![swagger](/image/swagger.png)
+
