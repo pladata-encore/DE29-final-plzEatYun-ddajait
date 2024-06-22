@@ -48,10 +48,9 @@
 
 - [프로젝트 개요](#프로젝트-개요)
 - [서비스 기능](#서비스-기능)
-- [프로젝트 설명](#프로젝트-설명)
-- [모델 설명](#모델-설명)
-- [Dataset](#dataset)
-- [Reference](#reference)
+- [아키텍처](#아키텍처)
+- [ERD](#ERD)
+- [Spring REST Docs](#Spring-REST-Docs)
 
 
 ## 프로젝트 개요
@@ -71,7 +70,7 @@
 
 </br></br>
 
-## 아케텍처
+## 아키텍처
 ## Frontend-Backend
 
 <div align="center">
@@ -90,12 +89,12 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341934323-6ebe4fb2-10b8-4c93-9809-1c7a99124ad3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T044610Z&X-Amz-Expires=300&X-Amz-Signature=f97783a460cd9678049829f4de2bd121b3d6891735db8c198bd7609d65f257b0&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
 </div>
 
-## 🔗 ERD 
+## ERD 
 
 ![ERD](/image/ERD-DDAJAIT.png)
 
 
-## 📝 Spring REST Docs
+## Spring REST Docs
 ###  Swagger - springdoc : 2.5.0
 http://52.78.44.47/swagger-ui/index.html#/
 
