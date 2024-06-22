@@ -19,7 +19,7 @@
 
 | 구성원 | 깃허브 주소 | 분담 역할 |
 | --- | --- | --- |
-| 장윤영 | https://github.com/Jyundev | SpringBoot RestFul API 개발|
+| 장윤영 | https://github.com/Jyundev | SpringBoot Rest API 개발|
 | 조하민 | https://github.com/chohaming |AWS 인프라 구축|
 | 김도한 | https://github.com/rlaehgks115 |React 프론트엔드 개발|
 | 김백운 | https://github.com/kimbw0615 | 데이터 수집 및 전처리, 모델링|
