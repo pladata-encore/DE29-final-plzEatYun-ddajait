@@ -1,4 +1,4 @@
-# PROJECT : IT자격증 챌린지 웹사이트 
+# PROJECT : IT자격증 스터디 플랫폼 
 
 </br></br>
 
