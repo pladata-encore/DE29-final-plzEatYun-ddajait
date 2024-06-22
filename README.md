@@ -77,7 +77,6 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341933705-28c138aa-7065-4f79-9b4d-088a75f08439.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T043853Z&X-Amz-Expires=300&X-Amz-Signature=2f0463b97f4117b1c2cfb62049238294974125690feb80f6592a772a59f0134e&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
 </div>
 
-### Backend : GitHub Actions, nginx , AWS EC2를 이용하여 Spring 애플리케이션 무중단 배포 환경을 구축했습니다.
 
 ## Data ETL
 
