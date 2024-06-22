@@ -33,13 +33,15 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341933055-6b85c800-e28c-41c2-ab80-e112e6eb46dd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T043650Z&X-Amz-Expires=300&X-Amz-Signature=b2a9bb8d4cc0267811649c84d562af4db9a6aab0455f61fa0363bf74ca769fad&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
 </div>
 
-- Window11, MacOS, Ubuntu
+- Window11, MacOS, Linux
 - JDK 17
 - Spring Boot : 3.2.5
-- React : 
-- Docker 25.0.3, Docker Compose
+- React : 18.2.0
+- Docker 25.0.3
 - Github Actions
-- nginx
+- nginx : 1.27.0
+- Mode-js : 20.12.2
+- Airflow : 2.9.1
 - AWS EC2, RDS, S3
 
 ## Contents Table
@@ -76,21 +78,22 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341933705-28c138aa-7065-4f79-9b4d-088a75f08439.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T043853Z&X-Amz-Expires=300&X-Amz-Signature=2f0463b97f4117b1c2cfb62049238294974125690feb80f6592a772a59f0134e&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
 </div>
 
+### Backend : GitHub Actions, nginx , AWS EC2를 이용하여 Spring 애플리케이션 무중단 배포 환경을 구축했습니다.
+
 ## Data ETL
-![image](https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/8c3a6cae-1a15-457f-80d5-07fdbf2fa1e3)
-https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341933882-8c3a6cae-1a15-457f-80d5-07fdbf2fa1e3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T044000Z&X-Amz-Expires=300&X-Amz-Signature=8c46d6650f0ffdf6003ed9e912d0b541d7e9a5be3d6d05296b32473550a4eea7&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170
 
+<div align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341933906-ad07d36c-4f4c-4a6b-9cef-8c883bbe9162.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T044035Z&X-Amz-Expires=300&X-Amz-Signature=97052a9a655218b2e1f9ba1f0c9f7c9b464c88a5644012c05f80f196c335758a&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
+</div>
 
+<div align="center">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341934323-6ebe4fb2-10b8-4c93-9809-1c7a99124ad3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T044610Z&X-Amz-Expires=300&X-Amz-Signature=f97783a460cd9678049829f4de2bd121b3d6891735db8c198bd7609d65f257b0&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
+</div>
 
 ## 🔗 ERD 
 
 ![ERD](/image/ERD-DDAJAIT.png)
 
-
-## ⚙️ CI/CD 파이프라인
-GitHub Actions, nginx , AWS EC2를 이용하여 Spring 애플리케이션 무중단 배포 환경을 구축했습니다.
-
-![CI](/image/spring_ci_cd.png)
 
 ## 📝 Spring REST Docs
 ###  Swagger - springdoc : 2.5.0
