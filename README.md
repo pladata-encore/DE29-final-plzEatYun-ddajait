@@ -1,6 +1,4 @@
-# PROJECT : IT자격증 스터디 플랫폼 
-
-</br></br>
+# IT 자격증 스터디 플랫폼 : DDAJA-IT
 
 ## 📆 프로젝트 기간 
 
@@ -19,10 +17,10 @@
 
 | 구성원 | 깃허브 주소 | 분담 역할 |
 | --- | --- | --- |
-| 장윤영 | https://github.com/Jyundev | SpringBoot Rest API 개발|
-| 조하민 | https://github.com/chohaming |AWS 인프라 구축|
-| 김도한 | https://github.com/rlaehgks115 |React 프론트엔드 개발|
-| 김백운 | https://github.com/kimbw0615 | 데이터 수집 및 전처리, 모델링|
+| 장윤영 | https://github.com/Jyundev | CBT 자격증 시험 데이터 수집<br>SpringBoot RESTful API 개발 <br>ERD 및 API 설계<br>Swagger 기반  REST API 문서 자동화<br>프로젝트 문서화 작업|
+| 조하민 | https://github.com/chohaming |AWS 인프라 설계 및 구축<br>airflow 데이터 수집 자동화<br>Git Actions 기반 프론트엔드 배포|
+| 김도한 | https://github.com/rlaehgks115 |React 기반 프론트엔드<br>아키텍처 설계 및 개발<br>S3 기반 백엔드 배포|
+| 김백운 | https://github.com/kimbw0615 | 자격증 접수일정,  시험 데이터 수집<br>자격증 시험 후기 데이터 수집 및 분석<br>데이터 정제 및 난이도 분석 모델링|
 
 </br></br>
 
@@ -30,7 +28,7 @@
 ## Environment
 
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341933055-6b85c800-e28c-41c2-ab80-e112e6eb46dd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T043650Z&X-Amz-Expires=300&X-Amz-Signature=b2a9bb8d4cc0267811649c84d562af4db9a6aab0455f61fa0363bf74ca769fad&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
+<img width="957" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/b0a6141c-650b-483c-82db-b26ad88298cf" style="width: 75%; margin: 5px;">
 </div>
 
 - Window11, MacOS, Linux
@@ -56,17 +54,20 @@
 ## 프로젝트 개요
 
 <div align="center">
-  <img src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/3aa5391c-6dd4-4590-8f5a-699eae45d2a2" alt="Alt text" style="width: 75%; margin: 5px;">
+<img width="1165" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/e39135c5-fb6d-4cf5-a6a1-1ace04fd1f0b" style="width: 75%; margin: 5px;">
 </div>
-
 
 </br></br>
 
 ## 서비스 기능
+- 1차 목표로 총 10개의 IT 자격증 기준 프로젝트 진행했습니다.
+- 리눅스 마스터, 정보처리기사,  정보보안기사, 네트워크 관리사, 정보처리산업기사, ADsP,  빅데이터분석기사 ,SQLD
 
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341932154-1f2d3a88-ca72-4482-8b54-f41342b11246.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T043506Z&X-Amz-Expires=300&X-Amz-Signature=bfeaf88d8b44356e2f17f646084794b2639acd54f8d7b01929f59e3cf43e83c8&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
+<img width="1143" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/d5c31af4-d73b-4bca-8270-f9c974d1af6d"style="width: 75%; margin: 5px;">
 </div>
+
+
 
 </br></br>
 
@@ -74,19 +75,52 @@
 ## Frontend-Backend
 
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341933705-28c138aa-7065-4f79-9b4d-088a75f08439.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T043853Z&X-Amz-Expires=300&X-Amz-Signature=2f0463b97f4117b1c2cfb62049238294974125690feb80f6592a772a59f0134e&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
+<img width="983" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/2fa3238f-4ee6-49e0-b076-f203d26e0977"style="width: 75%; margin: 5px;">
 </div>
 
+## 화면 설계
+### Menu Tree
+
+<div align="center">
+<img width="918" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/da1ba34f-38d0-46c6-96a0-0b37d2e2797b" style="width: 75%; margin: 5px;">
+</div>
+
+### Flow Chart
+
+<div align="center">
+<img  alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/2152147e-7272-4786-9f6e-a423ea74c12e" style="width: 60%; margin: 5px;">
+</div>
 
 ## Data ETL
 
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341933906-ad07d36c-4f4c-4a6b-9cef-8c883bbe9162.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T044035Z&X-Amz-Expires=300&X-Amz-Signature=97052a9a655218b2e1f9ba1f0c9f7c9b464c88a5644012c05f80f196c335758a&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
+<img width="1294" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/c7d8abc9-d1a7-4dd8-9c1d-a4c65f3480e3" style="width: 75%; margin: 5px;">
 </div>
 
+
+## 데이터 설명
+
 <div align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83933219/341934323-6ebe4fb2-10b8-4c93-9809-1c7a99124ad3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T044610Z&X-Amz-Expires=300&X-Amz-Signature=f97783a460cd9678049829f4de2bd121b3d6891735db8c198bd7609d65f257b0&X-Amz-SignedHeaders=host&actor_id=83933219&key_id=0&repo_id=811617170" alt="Alt text" style="width: 75%; margin: 5px;">
+<img width="1207" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/0252fc1c-614b-482b-9ed1-9491d9e11ff4" style="width: 75%; margin: 5px;">
 </div>
+
+### 자격증별 시험일정 데이터 
+
+<div align="center">
+<img width="1177" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/747b1184-e931-4e1c-b47d-dbe39edf5cc5"style="width: 75%; margin: 5px;">
+</div>
+
+### 자격증별 시험 정보 데이터 
+
+<div align="center">
+<img width="1123" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/a369261f-0aac-4b0d-9e18-c4336fbe84da"style="width: 75%; margin: 5px;">
+</div>
+
+### 자격증 시험 후기 데이터 
+<div align="center">
+<img width="1119" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/88a1bc03-f537-48fb-8efc-7fc1ab0de5b1"style="width: 75%; margin: 5px;">
+</div>
+
 
 ## ERD 
 
@@ -97,5 +131,15 @@
 ###  Swagger - springdoc : 2.5.0
 http://52.78.44.47/swagger-ui/index.html#/
 
-![swagger](/image/swagger.png)
+<div align="center">
+<img alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/40aeb83b-bd85-419d-8a2e-be3e7ca48d80"style="width: 100%; margin: 5px;">
+</div>
+
+## JWT 인증방식 
+<div align="center">
+<img width="816" alt="image" src="https://github.com/pladata-encore/DE29-final-plzEatYun-ddajait/assets/83933219/9d170fe3-8e34-449c-893d-0feb4dae59a6"style="width: 70%; margin: 5px;">
+</div>
+
+
+
 
